@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Kia ora 👋</h1>
+<h1 align="center">Ia orana 👋</h1>
 
 ###
 
