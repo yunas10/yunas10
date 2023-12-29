@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Yuna from France<br><br>- 🔭 I’m working as ML Ops engineer<br>- 📚 I'm currently learning NLP<br>- ⚡ In my free time I eat</p>
+<p align="left">I'm Yuna or Mahana(my tahitian name) from France<br><br>- 🔭 I’m working as ML Ops engineer<br>- 📚 I'm currently learning NLP<br>- ⚡ In my free time I eat</p>
 
 ###
 
